@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   pullPolicy: IfNotPresent
-  repository: anaisurlichs/helm-go-example
+  repository: taptap21/helmtest:0.1
 
 imagePullSecrets: []
 nameOverride: ""
